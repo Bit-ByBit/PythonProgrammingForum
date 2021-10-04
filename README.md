@@ -1,4 +1,4 @@
-# Python Programming Forum ASME-UET
+# Python Programming Forum
 
 ### Week 1
 1) [Intro to Python](https://github.com/Bit-ByBit/PythonProgrammingForum/tree/main/Week%201) 
